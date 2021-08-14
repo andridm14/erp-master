@@ -1,0 +1,13 @@
+_____________login erp system__________________________
+
+1. Departemen Riset dev
+    username : Hosea
+    password : 12345
+
+2. Departemen Marketing
+    username : widya
+    password : 12345
+
+3. Departemen Accounting
+    username : agung
+    password : 12345
